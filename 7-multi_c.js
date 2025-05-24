@@ -9,4 +9,3 @@ if (isNaN(x) || x <= 0) {
     console.log("C is fun");
   }
 }
-
